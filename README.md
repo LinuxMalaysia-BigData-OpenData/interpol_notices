@@ -1,5 +1,5 @@
 # interpol_notices
-Example to crawl json from web using curl and covert it into csv using jq and sed
+Example to crawl json from web using curl and covert it into csv using jq and sed. The query is limted to 160 result by json source.
 
 Download jq from https://stedolan.github.io/jq/
 
